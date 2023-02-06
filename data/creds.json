@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fba-academy-bot",
+  "private_key_id": "12c1f8462a41841de5b18a5e32f4b9fd9c9c7012",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQClIU57pNsMcaxV\n7wGrEVDx4N3weRlLVy/fV5hy9QAkORKYpuZVP2lehKnnnEcPP0UWmP+nJeiVIrFu\njfOprJn6mLDvjKbpFMZuFaGfeMjRPuEuxFOXtP/VVuIbyQRkt2FkcF6+nxhfu2JF\nc80JjUF02dVMPHpmYB2MkqWv/eLaU8m4w04tQHSxOYAUe9NtSMH0P41M5fnPGLoZ\nUcjcbFjd/1RRRW3W3S2LTe2P1Mf2Jk9jlgqDvYuGxq5OeQQmLUq3F0Dz0zNvy0eN\nqhSW0Z295U7xzr4Nuepwr8tkcIxqCw5vbWq4XaktPgWca9NtlgXPXW5O6vKOG33t\nms/ytI+DAgMBAAECggEARD7zLkOwakCyrmNUp6xE7Wp3n1KVQx96AA62SVB7af0S\nc/eKe1H1TOR8SeY7MhB+j7vU8PJIYRaRCTVurkHQ85JWkfJp6yu0ZLvY680iBeS8\ncTUfrTPXhgbd9QjLoYpunHGanqKnEq2hjD2zUE7Kbi43KsZV+eigXcAf7Q/7SSqs\ngWcq3ZYl4C2fwODGo9gbrNdLgZG0NTDfrBG5T7bDut0SAnPi/51DDIKCwQCFnGkf\n4vsTI2kwHDTj4+AuAegRuPKKU7HrnPmcaz8HA4c8AV7SAjMTn6OnBiw4mRqVYedY\nZGkd6l8taoOkbkCqvjZFVUBhpKXUphTMMEWhBFz/jQKBgQDbumPwZm3HeloDxeOo\ntx2eXhgROLKtwtXhTdRbDk7NX5K2uWazZUep5k/LNc0gG5z1Zojxrzix7XgrRXVL\nfw6SVbv/iBKKbs6avn05XUMbvTbH4Sx1aIu7/B3A3ukFVAsd+3AgRM+/2FjkV9UT\nvVkRmCum1YR68miw2HMeFgCM3QKBgQDAY6FNclq0JhFxQN7XNLyTF3myGvJhlZFZ\nFz2K06OdnbEgWbtWYU5WeRSKlBtpv4bIWTkaL8QP0F8VkJisk+A8HHPBkBT+UvGr\nceOP1EuNfqiM9modaDXm3vbaf/rI5a+eAAOZ9AYPw7kve+rVpUFZOCp6lx2+goUf\nufHQP7oX3wKBgHWUknJMfaZnRNAMDz1zb/gVJg/hJUxynH1KZr6rM2QXJq19HQYW\nxniWdFCr466w2BdB3Tpnp5EfIFUXgCL8RNHt6wJc0H8fuJN6KAyQaZ7oa+4eAup5\nHX1k9o8FOfDN/nz21hOOfxWMMlVO4wkDJCyUH5fRXmlkWr13tnJ9F6JJAoGAXs05\nYNZmx7qygaI7rMQ54CmDODZ7FYcENmhzVQNw7mwUKiLNY4VTetzzOE4/K97K5dLB\nhpve+wPsts2nzfKYXkaO6+S505C/sYHPZsJv8GtnVv7dz1vYo8leztCdnX1BCpRr\nMePDUOVbTYC8eUaTawl4NSxd5dCfFMEl3T5pzvUCgYBGCNC2kX+fvSvO9nvVsuin\nMHMKYc0uAJgm6atfbS55L6YzEbaHdwgjfVZgW3QvpoO+7zUrF7B+RP9TM/jASKTI\n0m4k3L18wBk2ZIFGtxbOmpgFs5mmhSzcZlsqpM/mNPpEjxmEKiFbJG/0AdwU3TaN\nqsqHjXFYlB0gL/7FwPhKDA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "fba-academy-bot@fba-academy-bot.iam.gserviceaccount.com",
+  "client_id": "100904831595752064856",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fba-academy-bot%40fba-academy-bot.iam.gserviceaccount.com"
+}
